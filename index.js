@@ -22,3 +22,7 @@ function makeInt(a) {
  var b = parseInt(a, 10)
   return b
 }
+function preserveDecimal(a) {
+  var b = parseFloat(a)
+  return b
+}
