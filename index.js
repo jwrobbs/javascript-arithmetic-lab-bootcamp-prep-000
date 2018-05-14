@@ -19,6 +19,6 @@ function dec(a) {
   return a
 }
 function makeInt(a) {
- var b= parseInt(a, 10)
+ var b = parseInt(a, 10)
   return b
 }
